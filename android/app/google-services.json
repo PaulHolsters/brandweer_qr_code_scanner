@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976798541630",
+    "project_id": "brandweer-qr-code-scanner",
+    "storage_bucket": "brandweer-qr-code-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976798541630:android:3f70a62ff17a165ffb2e6f",
+        "android_client_info": {
+          "package_name": "com.example.brandweer_qr_code_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi85LTGsFQOzRGPnGGYZIU95x1lWSAqGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
