@@ -81,6 +81,7 @@ class _CameraScreenState extends State<CameraScreen> {
                             child: preview,
                             ),
                             Text('gevonden tekst: $scannedQRCode'),
+                            const Text('het doet moeilijk')
                             ]),
       )
       
