@@ -80,7 +80,7 @@ class _CameraScreenState extends State<CameraScreen> {
                             height: size.height/1.5,
                             child: preview,
                             ),
-                            Text('gevonden tekst: $scannedQRCode')
+                            Text('gevonden tekst: $scannedQRCode'),
                             ]),
       )
       
